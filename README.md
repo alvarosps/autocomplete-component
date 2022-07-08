@@ -1,4 +1,5 @@
 # DnD Spells AutoComplete componente
 
-- To run: `npm install`
+To run:
+- `npm install`
 - `npm start`
